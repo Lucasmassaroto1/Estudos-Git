@@ -68,3 +68,9 @@ acontecido no projeto, para que você trabalhe com o projeto atualizado.
 -- GIT PULL
 -----------------------------------------------------------------------
 Aula 10 | Sincronizando projeto com o GitHub
+-- GIT INIT
+-- GIT ADD
+-- GIT COMMIT
+-- GIT BRANCH -M MAIN
+-- GIT REMOTE ADD ORIGIN https://github.com/Lucasmassaroto1/Estudos-Git.git
+-- GIT PUSH -U ORIGIN MAIN

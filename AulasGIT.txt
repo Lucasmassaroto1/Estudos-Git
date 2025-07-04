@@ -19,4 +19,4 @@ Aula 8 | Subindo alterações para o GitHub | CONCLUIDO
 -----------------------------------------------------------------------
 Aula 9 | Baixando alterações com GIT PULL | CONCLUIDO
 -----------------------------------------------------------------------
-Aula 10 | Sincronizando projeto com o GitHub
+Aula 10 | Sincronizando projeto com o GitHub | CONCLUIDO
