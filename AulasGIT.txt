@@ -1,0 +1,22 @@
+-----------------------------------------------------------------------
+| CONCLUIDO | ANDAMENTO
+-----------------------------------------------------------------------
+Aula 1 | Controle de versão com Git & Conceitos importantes | CONCLUIDO
+-----------------------------------------------------------------------
+Aula 2 | O que é uma branch (Ramificação) | CONCLUIDO
+-----------------------------------------------------------------------
+Aula 3 | Comandos básicos para o terminal | CONCLUIDO
+-----------------------------------------------------------------------
+Aula 4 | Criando primeiro repositório GIT | CONCLUIDO
+-----------------------------------------------------------------------
+Aula 5 | Utilizando comandos ADD & COMMIT | CONCLUIDO
+-----------------------------------------------------------------------
+Aula 6 | Configurando chave SSH | CONCLUIDO
+-----------------------------------------------------------------------
+Aula 7 | Clonando projeto com o GIT | CONCLUIDO
+-----------------------------------------------------------------------
+Aula 8 | Subindo alterações para o GitHub | CONCLUIDO
+-----------------------------------------------------------------------
+Aula 9 | Baixando alterações com GIT PULL
+-----------------------------------------------------------------------
+Aula 10 | Sincronizando projeto com o GitHub
