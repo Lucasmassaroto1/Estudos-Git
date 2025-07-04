@@ -63,5 +63,8 @@ computador para o GitHub.
 -- GIT PUSH
 -----------------------------------------------------------------------
 Aula 9 | Baixando alterações com GIT PULL
+Com o git pull (Puxar) você consegue baixar alterações que podem ter 
+acontecido no projeto, para que você trabalhe com o projeto atualizado.
+-- GIT PULL
 -----------------------------------------------------------------------
 Aula 10 | Sincronizando projeto com o GitHub
